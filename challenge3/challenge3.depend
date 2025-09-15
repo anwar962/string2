@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757517569 source:c:\users\pc\desktop\chaine_caractere\challenge3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
